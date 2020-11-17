@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950707940577",
+    "firebase_url": "https://vani-chat-9b86a.firebaseio.com",
+    "project_id": "vani-chat-9b86a",
+    "storage_bucket": "vani-chat-9b86a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950707940577:android:ade25005bcffe8c4f81ba0",
+        "android_client_info": {
+          "package_name": "com.nstagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950707940577-klbusjq4sdeuc6i15okugd6j02rru4ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_6vovos8it74rv2dbdhK42MDqlVyqkMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950707940577-klbusjq4sdeuc6i15okugd6j02rru4ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
